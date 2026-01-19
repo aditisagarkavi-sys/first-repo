@@ -1,1 +1,1 @@
-# first-repo
+This project demonstrates an IoT-enabled robotic system that detects buried landmines using a metal detector and reports their GPS location wirelessly for safer and efficient mine clearance operations.
